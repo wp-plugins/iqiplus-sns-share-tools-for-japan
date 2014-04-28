@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+#iQiPlus { display: block; margin: 20px auto; }
+#iQiPlus:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+#iQiPlus b { display: block; font-weight: normal; }
+#iQiPlus i { float: right; font-size: 10px; opacity: 0.618; }
+
+
