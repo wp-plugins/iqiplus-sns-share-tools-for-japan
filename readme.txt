@@ -7,6 +7,7 @@ Tested up to:      1.0.0
 Stable tag:        trunk
 Help link:         http://wiki.jp.ai/at/iQiPlus
 Site Link:         http://plus.jp.net.ai/
+Donate link:       http://wiki.jp.ai/at/iQiPlus
 Tags:              iQiPlus,SNS, Japan, Share, Button,sharethis,addthis,まとめボタン,ツイートボタン,いいねボタン,はてな,Googleプラス
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
