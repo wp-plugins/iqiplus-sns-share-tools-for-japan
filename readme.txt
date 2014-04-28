@@ -12,7 +12,6 @@ Tags:              iQiPlus,SNS, Japan, Share, Button,sharethis,addthis,まとめ
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
-SNS share tools for japan(日本人のためにデザインしたソーシャルシェアツールです。)
 
 
 == Description ==
