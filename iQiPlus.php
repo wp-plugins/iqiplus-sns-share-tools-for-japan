@@ -5,7 +5,7 @@
      Version:     1.0
      Author:      iQi
      Author URI:  http://wiki.jp.ai/at/iQiPlus
-     Plugin URI:  http://plus.jp.net.ai/
+     Plugin URI:  http://plus.jp.ai/
      Description: SNS share tools for japan.
      */
     
@@ -29,7 +29,7 @@
         
         $HTM .= '<div id="iQiPlus" class="clearfix">'."\n";
         $HTM .= '<b><i>iQiPlus</i></b>'."\n";
-        $HTM .= '<script>iQiPlusStyle="'.$STYLE.'";iQiPlusAlign="'.$ALIGN.'";iQiPlusTotop="'.$TOTOP.'";</script><script src="http://api.jp.net.ai/iqi.plus/iqi.plus.wp.js" type="text/javascript"></script>';
+        $HTM .= '<script>iQiPlusStyle="'.$STYLE.'";iQiPlusAlign="'.$ALIGN.'";iQiPlusTotop="'.$TOTOP.'";</script><script src="http://api.jp.ai/iqi.plus/iqi.plus.wp.js" type="text/javascript"></script>';
         $HTM .= '<br clear="all"></div><!-- #iQiPlus -->';
         
         return $HTM;
