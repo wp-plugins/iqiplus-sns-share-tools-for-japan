@@ -2,8 +2,8 @@
 
 Plugin Name:       iQiPlus
 Contributors:      iQi
-Requires at least: 1.0.0
-Tested up to:      1.0.0
+Requires at least: 1.0.1
+Tested up to:      1.0.1
 Stable tag:        trunk
 Help link:         http://wiki.jp.ai/at/iQiPlus
 Site Link:         http://plus.jp.ai/
@@ -32,13 +32,16 @@ wordpress pluginsからiQiPlusを検索して自動的にインストールで�
 
 == Changelog ==
 
+= 2015-02-06 1.0.1 =
+モバイルにも対応 ^_^
 
 = 2014-04-16 1.0.0 =
 正式リリース ^_^
 
 == Upgrade Notice ==
 
-なし
+= 2015-02-06 1.0.1 =
+モバイルにも対応 ^_^
 
 == Screenshots ==
 
